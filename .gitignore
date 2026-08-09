@@ -53,3 +53,15 @@ dkms.conf
 
 # debug information files
 *.dwo
+# 操作系统镜像（The Greatest OS 专用）
+*.bin
+*.img
+*.iso
+*.vmdk
+*.vhd
+*.vdi
+*.flp
+
+# 个人配置文件
+*.local
+*.secret
